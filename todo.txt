@@ -1,0 +1,2 @@
+[] Colocar cores diferentes para back, front, dados
+[] Cor e card/tag diferente para pessoal, freelancer e institucional
